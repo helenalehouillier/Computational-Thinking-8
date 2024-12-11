@@ -28,3 +28,4 @@ print("\t4: a new tab will open - click CONNECT")
 
 print("\n\nWhen you have found the CARDINAL, click here, then use CTRL C to end the program\n\n")
 mySprite2 = codesters.Sprite ("baseball", 200,200)
+mySprite3 = codesters.Sprite ("flower", 20,200)
